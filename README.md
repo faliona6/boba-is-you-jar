@@ -4,4 +4,4 @@ This contains the .jar for my boba is you project, a recreation of the game baba
 
 # To Play
 
-Download the zip file, extract it, and run the jar file. Or after you extract it, you can run in command line 'java -jar Project.jar'
+Download the zip file, extract it, and run the Project.jar file. Or if that doesn't work, after you extract it, you can run in command line 'java -jar Project.jar'
