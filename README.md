@@ -1,6 +1,8 @@
 # boba-is-you-jar
 
-This contains the .jar for my boba is you project, a recreation of the game baba is you in Java for my CPE 203 project. 
+This contains the .jar for my boba is you project, a recreation of the game baba is you in Java for my CPE 203, Object Oriented Programming project. 
+
+![img1](https://raw.githubusercontent.com/faliona6/boba-is-you-jar/master/Project/images/lvl1.PNG)
 
 # To Play
 
